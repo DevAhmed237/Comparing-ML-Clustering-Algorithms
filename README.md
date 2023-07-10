@@ -1,1 +1,2 @@
 # Comparing-ML-Clustering-Algorithms
+This project aims to compare the performance of multiple machine learning clustering algorithms on the "customer segmentation" dataset. The project focuses on identifying distinct groups or segments within a customer population based on their characteristics and behaviors. By implementing and evaluating different clustering algorithms, the project seeks to identify the most effective algorithm for customer segmentation.
